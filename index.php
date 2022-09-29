@@ -9,5 +9,9 @@
 <body>
     <h1>Hello World</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore saepe porro quod eum magnam veniam, maiores necessitatibus ducimus eveniet facere incidunt dignissimos iste quis facilis magni aliquam accusamus ex libero.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
